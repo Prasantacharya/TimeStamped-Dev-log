@@ -20,8 +20,7 @@ It's probably the most common way I consume media of any kind:
 I think it'll come to no surprise that I also do a lot of my learning from podcasts. 
 For dev work I never do this (still a ton of trial and error while crying over documentation) but for things like being informed on the [news](https://www.wsj.com/podcasts/whats-news), or learn about [history](https://thehistoryofrome.typepad.com/revolutions_podcast/), [econ](https://www.npr.org/sections/money/127413729/planet-money/), or [politics](https://www.youtube.com/watch?v=dQw4w9WgXcQ) I find myself gravitating towards podcasts as my first option in research.
 
-But with this comes some irritation. I think this is best illustrated via comparison to text documentation. If I were say brushing up on [Django](https://docs.djangoproject.com/en/5.0/) and I wanted to understand how the ORM worked with  With text content this is pretty easy, `Ctrl+F` and `href` links are unironically the most useful feature computing hath wrought in my book.
-But for audio content, its not exactly that easy to extract info
+And when I'm learning, I often find myself wanting to either bookmark specific points in the audio for later or write a note about something interesting I heard. This seems like it should be a solved problem - and with written mediums it is. Books have Post-it notes ~~or just writing in the margin~~. E-books have had bookmarks since forever, and any decent PDF reader allows you to mark up PDF's. However, I don't think there exists a similar tool to do this with audio content.
 
 So thats what I am setting out to create: **A podcast-player type app that allows the user to create and search timestamp-able notes for audio content of any kind.**
 
